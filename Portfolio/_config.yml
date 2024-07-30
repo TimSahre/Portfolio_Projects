@@ -1,0 +1,14 @@
+title: Tim Sahre # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Environmental Informatics | Bridging Technology & Ecology for Better Futures  
+  <br><br>
+  Interested in learning and implementing multidisciplinary approaches to complex questions and passionate about utilizing technology to solve pressing environmental challenges, my academic path has been a blend
+  of environmental science and IT. During my studies, I mastered crucial technical skills in environmental information systems, databases, and web technologies, further developing my expertise in environmental analysis.
+  I worked on projects ranging from the use of environmental information systems to ecological data analysis, combining theoretical knowledge with practical applications to solve contemporary environmental problems.
+  <br><br>
+  <a href="https://www.linkedin.com/in/timsahre/">View My LinkedIn Profile</a> 
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
