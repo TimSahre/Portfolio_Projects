@@ -3,7 +3,7 @@
 
 *(English version below)*
 
-Ein **kostenloses** und **offenes** Muster-Dashboard, das sich mit den Auswirkungen des Klimawandels auf unsere Umwelt befasst.
+Ein **kostenloses** und **offenes** Muster-Dashboard, das sich mit den Auswirkungen des Klimawandels auf unsere Umwelt befasst. Für nähere Details siehe auch: [Visualisierung des Einflusses des Klimawandels auf Wasserhaushalt, Böden und Vegetation durch interaktive Dashboards](assets/further_details.pdf)
 
 <img src="assets/KKN_Poster-1.png?raw=true"/>
 <img src="assets/structure.png?raw=true"/>
