@@ -1,4 +1,4 @@
-##  Wildfire Simulation.
+##  Wildfire Simulation
 
 <img src="gifs/forest_fire_with_metrics.gif" alt="Wildfire Simulation GIF"/>
 
